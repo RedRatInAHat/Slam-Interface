@@ -23,3 +23,28 @@ C:\Users\RedRat\Documents\Университет\Магистратура\3 се
 C:\Users\RedRat\Documents\Университет\Магистратура\3 семестр\ИТ локальной навигации\IronPython\SLAMSim\SLAMSim\obj\Debug\SLAMSim.csproj.CopyComplete
 C:\Users\RedRat\Documents\Университет\Магистратура\3 семестр\ИТ локальной навигации\IronPython\SLAMSim\SLAMSim\obj\Debug\SLAMSim.exe
 C:\Users\RedRat\Documents\Университет\Магистратура\3 семестр\ИТ локальной навигации\IronPython\SLAMSim\SLAMSim\obj\Debug\SLAMSim.pdb
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\SLAMSim.exe.config
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\SLAMSim.exe
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\SLAMSim.pdb
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.Modules.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.SQLite.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.Wpf.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Scripting.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.Modules.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.SQLite.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\IronPython.Wpf.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Scripting.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.csprojAssemblyReference.cache
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.Form1.resources
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.Properties.Resources.resources
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.csproj.GenerateResource.cache
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.csproj.CoreCompileInputs.cache
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.csproj.CopyComplete
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.exe
+C:\Users\RedRat\Documents\GitHub\Slam-Interface\SLAMSim\obj\Debug\SLAMSim.pdb
