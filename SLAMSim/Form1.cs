@@ -88,36 +88,20 @@ namespace SLAMSim
 
             Temp_richBox.Text += rgb_list.Length + "\n\n";
 
-            if (rgb_list[0] != 1)
+            int x = 0;
+            for (int i = 0; i < height; i++)
             {
-                int x = 0;
-                for (int i = 0; i < height; i++)
+                for (int j = 0; j < width; j++)
                 {
-                    for (int j = 0; j < width; j++)
-                    {
-                        rgb_image.SetPixel(j, i, Color.FromArgb(rgb_list[x++], rgb_list[x++], rgb_list[x++]));
-                        //if (rgb_list[x++] > 0)
-                        //{
-                        //    Temp_richBox.Text += rgb_list[x - 1] + " ";
-                        //    er++;
-                        //}
-                        //if (rgb_list[x++] > 0)
-                        //{
-                        //    Temp_richBox.Text += rgb_list[x - 1] + " ";
-                        //    er++;
-                        //}
-                        //if (rgb_list[x++] > 0)
-                        //{
-                        //    Temp_richBox.Text += rgb_list[x - 1] + " ";
-                        //    er++;
-                        //}
-
-                    }
+                    int[] rgb = new int[3] { rgb_list[x++], rgb_list[x++], rgb_list[x++] };
+                    rgb_image.SetPixel(j, i, Color.FromArgb(rgb[0] < 0 ? (rgb[0] + 255) : rgb[0], rgb[1] < 0 ? (rgb[1] + 255) : rgb[1], rgb[2] < 0 ? (rgb[2] + 255) : rgb[2]));
                 }
-
-
-                rgb_pb.Image = rgb_image;
             }
+
+            rgb_image.RotateFlip(RotateFlipType.Rotate180FlipX);
+
+            rgb_pb.SizeMode = PictureBoxSizeMode.StretchImage;
+            rgb_pb.Image = rgb_image;
         }
     }
 }

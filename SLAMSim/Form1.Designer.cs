@@ -71,7 +71,7 @@
             // button_camera_connection
             // 
             this.button_camera_connection.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button_camera_connection.Location = new System.Drawing.Point(12, 360);
+            this.button_camera_connection.Location = new System.Drawing.Point(449, 400);
             this.button_camera_connection.Name = "button_camera_connection";
             this.button_camera_connection.Size = new System.Drawing.Size(133, 34);
             this.button_camera_connection.TabIndex = 3;
@@ -83,15 +83,15 @@
             // 
             this.rgb_pb.Location = new System.Drawing.Point(373, 12);
             this.rgb_pb.Name = "rgb_pb";
-            this.rgb_pb.Size = new System.Drawing.Size(719, 618);
+            this.rgb_pb.Size = new System.Drawing.Size(297, 185);
             this.rgb_pb.TabIndex = 4;
             this.rgb_pb.TabStop = false;
             // 
             // depth_pb
             // 
-            this.depth_pb.Location = new System.Drawing.Point(12, 207);
+            this.depth_pb.Location = new System.Drawing.Point(373, 209);
             this.depth_pb.Name = "depth_pb";
-            this.depth_pb.Size = new System.Drawing.Size(247, 147);
+            this.depth_pb.Size = new System.Drawing.Size(297, 185);
             this.depth_pb.TabIndex = 5;
             this.depth_pb.TabStop = false;
             // 
@@ -99,7 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1104, 642);
+            this.ClientSize = new System.Drawing.Size(704, 476);
             this.Controls.Add(this.depth_pb);
             this.Controls.Add(this.rgb_pb);
             this.Controls.Add(this.button_camera_connection);
